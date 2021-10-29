@@ -257,7 +257,7 @@ plt.show()
 
 
 <div align="center">
-<h1>   Many thank for this opportunity!  
+<h1>   Many thanks for this opportunity!  
  </h1>                                                
 
 
